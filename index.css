@@ -1,0 +1,132 @@
+body {
+    background-color: white;
+}
+#navlist {
+    position: relative;
+}
+#navlist li {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0px;
+}
+#navlist li, #navlist a {
+    margin: 0 auto;
+    height: 243px;
+    display: block;
+}
+#pre {
+    left: 38px;
+    top: 43px;
+    width: 79px;
+    height: 164px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -38px 0;
+}
+#one {
+    left: 130px;
+    top: 24px;
+    width: 97px;
+    height: 188px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -130px 0;
+}
+#two {
+    left: 235px;
+    top: 19px;
+    width: 137px;
+    height: 188px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -235px 0;
+}
+#three {
+    left: 380px;
+    top: 27px;
+    width: 73px;
+    height: 185px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -380px 0;
+}
+#four {
+    left: 472px;
+    top: 27px;
+    width: 94px;
+    height: 190px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -472px 0;
+}
+#five {
+    left: 584px;
+    top: 16px;
+    width: 79px;
+    height: 195px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -584px 0;
+}
+#six {
+    left: 667px;
+    top: 36px;
+    width: 85px;
+    height: 182px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -667px 0;
+}
+#seven {
+    left: 761px;
+    top: 37px;
+    width: 114px;
+    height: 175px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -761px 0;
+}
+#epi {
+    left: 884px;
+    top: 43px;
+    width: 86px;
+    height: 170px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -884px 0;
+}
+#pre a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -38px -243px;
+}
+#one a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -130px -243px;
+}
+#two a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -235px -243px;
+}
+#three a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -380px -243px;
+}
+#four a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -472px -243px;
+}
+#five a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -584px -243px;
+}
+#six a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -667px -243px;
+}
+#seven a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -761px -243px;
+}
+#epi a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/afinal.jpg') -884px -243px;
+}
+#navlist2 {
+    position: relative;
+}
+#navlist2 li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 243px;
+}
+#navlist2 li, #navlist2 a {
+    height: 350px;
+    display: block;
+}
+#matt {
+    left: 347px;
+    top: 28px;
+    width: 310px;
+    height: 314px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/matt.jpg') -350px 0px;
+}
+#matt a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/01/matt.jpg') -350px -350px;
+}
